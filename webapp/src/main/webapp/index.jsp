@@ -18,33 +18,33 @@
       </tr>
       <tr>
         <th style="text-align:right;width: 300px"><label for="Name"><b>Enter Name</b></label></th>
-        <td><input type="text" placeholder="Enter Full Name" name="Name" id="Name" required></td>
+        <td><input type="text" placeholder="Enter Full Name" name="Name" id="Name" width="500" required></td>
       </tr>
       <tr>
         <th style="text-align:right;width: 300px"><label for="mobile"><b>Enter mobile</b></label></th>
-        <td><input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required></td>
+        <td><input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" width="500" required></td>
       </tr>   
       <tr>
         <th style="text-align:right;width: 300px"><label for="email"><b>Enter Email</b></label></th>
-        <td><input type="text" placeholder="Enter Email" name="email" id="email" required></td>
+        <td><input type="text" placeholder="Enter Email" name="email" id="email" width="500" required></td>
       </tr> 
       <tr>
         <th style="text-align:right;width: 300px"><label for="psw"><b>Password</b></label></th>
-        <td><input type="password" placeholder="Enter Password" name="psw" id="psw" required></td>
+        <td><input type="password" placeholder="Enter Password" name="psw" id="psw" width="500" required></td>
       </tr> 
       <tr>
         <th style="text-align:right;width: 300px"><label for="psw-repeat"><b>Repeat Password</b></label></th>
-        <td><input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required></td>
+        <td><input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" width="500" required></td>
       </tr>   
       <tr>
-        <td colspan="2">
+        <td colspan="2" style="text-align:center">
           <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
           <br />
           <button type="submit" class="registerbtn">Register</button>
         </td>
       </tr> 
       <tr>
-        <td colspan="2">
+        <td colspan="2" style="text-align:center">
           <div class="container signin">
             <p>Already have an account? <a href="#">Sign in</a>.</p>
           </div>
