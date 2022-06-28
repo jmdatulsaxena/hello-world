@@ -8,7 +8,7 @@
       </tr>
       <tr>
         <td colspan="2">
-          <p style="text-align: center; text-shadow: 10px 10px 10px #aaa">Please fill in this form to create an account.</p>
+          <p style="text-align: center; text-shadow: 10px 10px 10px #aa7">Please fill in this form to create an account.</p>
         </td>
       </tr>
       <tr>
