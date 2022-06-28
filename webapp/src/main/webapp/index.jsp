@@ -18,23 +18,23 @@
       </tr>
       <tr>
         <th style="text-align:right;width: 300px"><label for="Name"><b>Enter Name</b></label></th>
-        <td><input type="text" placeholder="Enter Full Name" name="Name" id="Name" width="500" required></td>
+        <td><input type="text" placeholder="Enter Full Name" name="Name" id="Name" style="width:500px" required></td>
       </tr>
       <tr>
         <th style="text-align:right;width: 300px"><label for="mobile"><b>Enter mobile</b></label></th>
-        <td><input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" width="500" required></td>
+        <td><input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" style="width:500px" required></td>
       </tr>   
       <tr>
         <th style="text-align:right;width: 300px"><label for="email"><b>Enter Email</b></label></th>
-        <td><input type="text" placeholder="Enter Email" name="email" id="email" width="500" required></td>
+        <td><input type="text" placeholder="Enter Email" name="email" id="email" style="width:500px" required></td>
       </tr> 
       <tr>
         <th style="text-align:right;width: 300px"><label for="psw"><b>Password</b></label></th>
-        <td><input type="password" placeholder="Enter Password" name="psw" id="psw" width="500" required></td>
+        <td><input type="password" placeholder="Enter Password" name="psw" id="psw" style="width:500px" required></td>
       </tr> 
       <tr>
         <th style="text-align:right;width: 300px"><label for="psw-repeat"><b>Repeat Password</b></label></th>
-        <td><input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" width="500" required></td>
+        <td><input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" style="width:500px" required></td>
       </tr>   
       <tr>
         <td colspan="2" style="text-align:center">
