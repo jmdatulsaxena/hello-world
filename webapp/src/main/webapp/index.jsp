@@ -28,10 +28,10 @@
         <th style="text-align:left;width:250px"><label for="email"><b>Enter Email</b></label></th>
         <td><input type="text" placeholder="Enter Email" name="email" id="email" style="width:500px" required></td>
       </tr> 
-      <t style="height:50px"r>
+      <tr style="height:50px">
         <th style="text-align:left;width:250px"><label for="psw"><b>Password</b></label></th>
         <td><input type="password" placeholder="Enter Password" name="psw" id="psw" style="width:500px" required></td>
-      </t> 
+      </tr> 
       <tr style="height:50px">
         <th  style="text-align:left;width:250px"><label for="psw-repeat"><b>Repeat Password</b></label></th>
         <td><input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" style="width:500px" required></td>
