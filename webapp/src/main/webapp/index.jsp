@@ -16,24 +16,24 @@
           <hr>
         </td>
       </tr>
-      <tr>
-        <th style="text-align:left;width:350px"><label for="Name"><b>Enter Name</b></label></th>
+      <tr style="height:50px">
+        <th style="text-align:left;width:250px"><label for="Name"><b>Enter Name</b></label></th>
         <td><input type="text" placeholder="Enter Full Name" name="Name" id="Name" style="width:500px" required></td>
       </tr>
-      <tr>
-        <th style="text-align:left;width:350px"><label for="mobile"><b>Enter mobile</b></label></th>
+      <tr style="height:50px">
+        <th style="text-align:left;width:250px"><label for="mobile"><b>Enter mobile</b></label></th>
         <td><input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" style="width:500px" required></td>
       </tr>   
-      <tr>
-        <th style="text-align:left;width:350px"><label for="email"><b>Enter Email</b></label></th>
+      <tr style="height:50px">
+        <th style="text-align:left;width:250px"><label for="email"><b>Enter Email</b></label></th>
         <td><input type="text" placeholder="Enter Email" name="email" id="email" style="width:500px" required></td>
       </tr> 
-      <tr>
-        <th style="text-align:left;width:350px"><label for="psw"><b>Password</b></label></th>
+      <t style="height:50px"r>
+        <th style="text-align:left;width:250px"><label for="psw"><b>Password</b></label></th>
         <td><input type="password" placeholder="Enter Password" name="psw" id="psw" style="width:500px" required></td>
-      </tr> 
-      <tr>
-        <th  style="text-align:left;width:350px"><label for="psw-repeat"><b>Repeat Password</b></label></th>
+      </t> 
+      <tr style="height:50px">
+        <th  style="text-align:left;width:250px"><label for="psw-repeat"><b>Repeat Password</b></label></th>
         <td><input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" style="width:500px" required></td>
       </tr>   
       <tr>
