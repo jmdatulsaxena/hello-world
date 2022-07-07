@@ -46,7 +46,7 @@
       <tr>
         <td colspan="2" style="text-align:center">
           <div class="container signin">
-            <p>Already have an account? <a href="#">Sign in</a>.</p>
+            <p>Already have an account? Please <a href="#">Sign in</a>.</p>
           </div>
         </td>
       </tr>          
