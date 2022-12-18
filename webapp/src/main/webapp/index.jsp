@@ -17,8 +17,12 @@
         </td>
       </tr>
       <tr style="height:50px;">
-        <th style="width:250px;text-align:right"><label for="Name"><b>Enter Name:&nbsp;&nbsp </b></label></th>
-        <td><input type="text" placeholder="Enter Full Name" name="Name" id="Name" style="width:500px" required></td>
+        <th style="width:250px;text-align:right"><label for="fName"><b>Enter First Name:&nbsp;&nbsp </b></label></th>
+        <td><input type="text" placeholder="Enter First Name" name="fName" id="fName" style="width:500px" required></td>
+      </tr>
+      <tr style="height:50px;">
+        <th style="width:250px;text-align:right"><label for="lName"><b>Enter Last Name:&nbsp;&nbsp </b></label></th>
+        <td><input type="text" placeholder="Enter Last Name" name="lName" id="lName" style="width:500px" required></td>
       </tr>
       <tr style="height:50px">
         <th style="width:250px;text-align:right"><label for="mobile"><b>Enter mobile:&nbsp;&nbsp </b></label></th>
